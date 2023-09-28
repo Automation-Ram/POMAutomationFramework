@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Naveen AutomationLabs Application">
+	<test name="NAL Test cases Executions">
+		<classes>
+			<class name="com.hrm.qa.testcases.AccountInfoPageTest"></class>
+			<class name="com.hrm.qa.testcases.DashBoardPageTest"></class>
+			<class name="com.hrm.qa.testcases.DesktopPageTest"></class>
+			<class name="com.hrm.qa.testcases.LoginPageTest"></class>
+		</classes>
+	</test>
+</suite>   
