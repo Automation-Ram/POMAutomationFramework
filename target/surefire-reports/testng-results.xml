@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-29T07:42:05Z" name="Surefire suite" finished-at="2023-09-29T07:43:29Z" duration-ms="84765">
+    <groups>
+    </groups>
+    <test started-at="2023-09-29T07:42:05Z" name="Surefire test" finished-at="2023-09-29T07:43:29Z" duration-ms="84765">
+      <class name="com.hrm.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@25df00a0]" started-at="2023-09-29T07:43:09Z" name="setUp" finished-at="2023-09-29T07:43:15Z" duration-ms="5998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@25df00a0]" started-at="2023-09-29T07:43:15Z" name="loginPageTitleTest" finished-at="2023-09-29T07:43:15Z" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@25df00a0]" started-at="2023-09-29T07:43:15Z" name="tearDown" finished-at="2023-09-29T07:43:15Z" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@25df00a0]" started-at="2023-09-29T07:43:15Z" name="setUp" finished-at="2023-09-29T07:43:21Z" duration-ms="6609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@25df00a0]" started-at="2023-09-29T07:43:21Z" name="loginTest" finished-at="2023-09-29T07:43:23Z" duration-ms="1321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@25df00a0]" started-at="2023-09-29T07:43:23Z" name="tearDown" finished-at="2023-09-29T07:43:23Z" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@25df00a0]" started-at="2023-09-29T07:43:23Z" name="setUp" finished-at="2023-09-29T07:43:29Z" duration-ms="6081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="nalLogoTest()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@25df00a0]" started-at="2023-09-29T07:43:29Z" name="nalLogoTest" finished-at="2023-09-29T07:43:29Z" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nalLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@25df00a0]" started-at="2023-09-29T07:43:29Z" name="tearDown" finished-at="2023-09-29T07:43:29Z" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.qa.testcases.LoginPageTest -->
+      <class name="com.hrm.qa.testcases.DesktopPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.DesktopPageTest@c05fddc]" started-at="2023-09-29T07:42:58Z" name="setUp" finished-at="2023-09-29T07:43:06Z" duration-ms="7604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="moveToDesktopLinkTest()[pri:0, instance:com.hrm.qa.testcases.DesktopPageTest@c05fddc]" started-at="2023-09-29T07:43:06Z" name="moveToDesktopLinkTest" finished-at="2023-09-29T07:43:08Z" duration-ms="2452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveToDesktopLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.DesktopPageTest@c05fddc]" started-at="2023-09-29T07:43:08Z" name="tearDown" finished-at="2023-09-29T07:43:09Z" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.qa.testcases.DesktopPageTest -->
+      <class name="com.hrm.qa.testcases.DashBoardPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@7e990ed7]" started-at="2023-09-29T07:42:35Z" name="setUp" finished-at="2023-09-29T07:42:46Z" duration-ms="11054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="dashboardPageTitleTest()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@7e990ed7]" started-at="2023-09-29T07:42:46Z" name="dashboardPageTitleTest" finished-at="2023-09-29T07:42:46Z" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashboardPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@7e990ed7]" started-at="2023-09-29T07:42:46Z" name="tearDown" finished-at="2023-09-29T07:42:47Z" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@7e990ed7]" started-at="2023-09-29T07:42:47Z" name="setUp" finished-at="2023-09-29T07:42:56Z" duration-ms="9699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEditYourAccInfoTest()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@7e990ed7]" started-at="2023-09-29T07:42:56Z" name="verifyEditYourAccInfoTest" finished-at="2023-09-29T07:42:58Z" duration-ms="1537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEditYourAccInfoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@7e990ed7]" started-at="2023-09-29T07:42:58Z" name="tearDown" finished-at="2023-09-29T07:42:58Z" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.qa.testcases.DashBoardPageTest -->
+      <class name="com.hrm.qa.testcases.AccountInfoPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.AccountInfoPageTest@4d14b6c2]" started-at="2023-09-29T07:42:05Z" name="setUp" finished-at="2023-09-29T07:42:14Z" duration-ms="9428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="accountInfoPageTitleTest()[pri:0, instance:com.hrm.qa.testcases.AccountInfoPageTest@4d14b6c2]" started-at="2023-09-29T07:42:14Z" name="accountInfoPageTitleTest" finished-at="2023-09-29T07:42:16Z" duration-ms="1654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountInfoPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.AccountInfoPageTest@4d14b6c2]" started-at="2023-09-29T07:42:16Z" name="tearDown" finished-at="2023-09-29T07:42:16Z" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.AccountInfoPageTest@4d14b6c2]" started-at="2023-09-29T07:42:16Z" name="setUp" finished-at="2023-09-29T07:42:24Z" duration-ms="7462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOnContinueBtnTest()[pri:0, instance:com.hrm.qa.testcases.AccountInfoPageTest@4d14b6c2]" started-at="2023-09-29T07:42:24Z" name="clickOnContinueBtnTest" finished-at="2023-09-29T07:42:26Z" duration-ms="2457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnContinueBtnTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.AccountInfoPageTest@4d14b6c2]" started-at="2023-09-29T07:42:26Z" name="tearDown" finished-at="2023-09-29T07:42:26Z" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.AccountInfoPageTest@4d14b6c2]" started-at="2023-09-29T07:42:26Z" name="setUp" finished-at="2023-09-29T07:42:34Z" duration-ms="7549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEditYourAccInfoTest()[pri:0, instance:com.hrm.qa.testcases.AccountInfoPageTest@4d14b6c2]" started-at="2023-09-29T07:42:34Z" name="verifyEditYourAccInfoTest" finished-at="2023-09-29T07:42:35Z" duration-ms="1418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEditYourAccInfoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.AccountInfoPageTest@4d14b6c2]" started-at="2023-09-29T07:42:35Z" name="tearDown" finished-at="2023-09-29T07:42:35Z" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.qa.testcases.AccountInfoPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

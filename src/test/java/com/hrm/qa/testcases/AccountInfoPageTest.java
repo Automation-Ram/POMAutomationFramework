@@ -45,8 +45,6 @@ public class AccountInfoPageTest extends TestBase{
 	public void clickOnContinueBtnTest()
 	{
 		dashBoardPage.clickOnEditAccountLink();
-		String accountInfoTitle = accountInfoPage.validateAccountInfoPageTitle();
-		Assert.assertEquals(accountInfoTitle, "My Account Information");
 		accountInfoPage.clickOnContinueButton();
 	}
 	
